@@ -1,7 +1,7 @@
-[Cabecera con tu nombre y foco](assets/header.png)
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Lorena+Acosta!;" /> 
+</h1> 
 
-
-# Hola, soy Lorena Acosta 👋
 **Aprendiz de la vida, futura maestra de software.** Mi superpoder: **constancia**.
 
 ## Sobre mí
