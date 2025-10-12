@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Lorena+Acosta!;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Lorena+Acosta!;" /> 
 </h1> 
 
 **Aprendiz de la vida, futura maestra de software.** Mi superpoder: **constancia**.
