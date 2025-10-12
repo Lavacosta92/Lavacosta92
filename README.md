@@ -1,7 +1,7 @@
 [Cabecera con tu nombre y foco](assets/header.png)
 
 
-# Hola, soy <Lorena Acosta> 👋
+# Hola, soy Lorena Acosta 👋
 **Aprendiz de la vida, futura maestra de software.** Mi superpoder: **constancia**.
 
 ## Sobre mí
