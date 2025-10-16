@@ -6,8 +6,6 @@
 
 ## Sobre mí
 - Construyo software paso a paso y no me rindo: iterar, aprender, repetir.
-- Metas cortas, entregables semanales: enviar temprano y mejorar.
-- Sueño con enseñar desarrollo: documentación clara y paciencia.
 
 > La tortuga siempre vence a la liebre 💪🐢: avanzo constante. No me doy por vencida; siempre intento otra vez.
 **Dato humano:** amante de los aguacates 🥑
@@ -18,8 +16,6 @@
 **Lifelong learner, future software teacher.** My superpower: **consistency**.
 
 - I build step by step; I don’t give up—iterate until it works.
-- Small weekly milestones: ship early, improve continuously.
-- I aim to teach: clear docs, patient explanations.
 
 > The tortoise beats the hare: steady wins. I don’t give up—I try again.
 
